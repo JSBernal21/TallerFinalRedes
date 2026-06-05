@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<GroundOverlay><name>Antena 11 omni 23 dBm y 20 m.jpg</name><color>88ffffff</color><Icon>
+<href>Antena 11 omni 23 dBm y 20 m.jpg</href>
+<viewBoundScale>0.75</viewBoundScale></Icon><LatLonBox>
+<north> 52.75497</north>
+<south> 52.30503</south>
+<east> 14.24325</east>
+<west> 12.59676</west>
+</LatLonBox></GroundOverlay></kml>
